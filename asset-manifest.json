@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tesla-landing-page/static/css/main.724f3b52.css",
-    "main.js": "/tesla-landing-page/static/js/main.85225028.js",
+    "main.js": "/tesla-landing-page/static/js/main.d332dd39.js",
     "index.html": "/tesla-landing-page/index.html",
     "main.724f3b52.css.map": "/tesla-landing-page/static/css/main.724f3b52.css.map",
-    "main.85225028.js.map": "/tesla-landing-page/static/js/main.85225028.js.map"
+    "main.d332dd39.js.map": "/tesla-landing-page/static/js/main.d332dd39.js.map"
   },
   "entrypoints": [
     "static/css/main.724f3b52.css",
-    "static/js/main.85225028.js"
+    "static/js/main.d332dd39.js"
   ]
 }
